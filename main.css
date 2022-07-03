@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body {
+    font-family: 'Poppins';
+    background-color: #E5E5E5;
+    padding: 20px;
+}
+.spoorthi{
+color: darkblue;
+font-size: 24px;
+font-weight: 600;
+position: absolute;
+width: 114px;
+height: 36px;
+left: 97px;
+top: 34px;
+font-style: normal;
+line-height: 36px;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.about {
+    margin: 0 40px;
+}
+.menu-item {
+color: darkblue;
+position: absolute;
+width: 276px;
+height: 27px;
+left: 582px;
+top: 37px;
+}
